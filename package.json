@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "webpack": "^4.44.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {},
   "scripts": {
